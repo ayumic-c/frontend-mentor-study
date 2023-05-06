@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-gE4slYf7dX)
-- Live Site URL: [Click here](https://ayumic-c.github.io/frontend-mentor_qr-code/)
+- Live Site URL: [Click here](https://ayumic-c.github.io/frontend-mentor_qr-code-component/)
 
 ## Built with
 
