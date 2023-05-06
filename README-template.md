@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-    - [Mobile version](#mobile-version)
-    - [Desktop version](#desktop-version)
+    - [Mobile version 📱](#mobile-version)
+    - [Desktop version 🖥️](#desktop-version)
   - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -18,10 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-#### Mobile version📱
+#### Mobile version 📱
 ![qr-code-component_mobile](https://user-images.githubusercontent.com/92932301/236638386-c6d81805-dd20-4845-acec-f384f0c9c01d.png)
 
-#### Desktop version🖥️
+#### Desktop version 🖥️
 ![qr-code-component_pc](https://user-images.githubusercontent.com/92932301/236638455-9e3e9553-b3d9-4f23-baed-9dbba66af3b9.png)
 
 ### Links
