@@ -16,9 +16,9 @@ main .container {
 .qr-code-box {
   background-color: hsl(0, 0%, 100%);
   border-radius: 1.6rem;
-  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  padding: 1.6rem 1.6rem 3.6rem 1.6rem;
   box-shadow: 0 0 12px rgba(31, 50, 81, 0.1);
-  max-width: 320px;
+  max-width: 300px;
   margin: 0 auto;
 }
 .qr-code-box .qr-code-img {
@@ -28,7 +28,7 @@ main .container {
 }
 .qr-code-box .qr-code-text {
   text-align: center;
-  padding: 0 1.6rem;
+  padding: 0 0.8rem;
 }
 .qr-code-box .qr-code-text h1 {
   font-size: 20px;
