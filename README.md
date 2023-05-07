@@ -16,11 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Mobile version 📱
 
-![qr-code-component_mobile](https://user-images.githubusercontent.com/92932301/236638386-c6d81805-dd20-4845-acec-f384f0c9c01d.png)
+![qr-code-component_mobile](https://user-images.githubusercontent.com/92932301/236670573-445777f6-5c5e-4039-8abc-0e824101df96.png)
 
 - Desktop version 🖥️
 
-![qr-code-component_desktop](https://user-images.githubusercontent.com/92932301/236643279-4da36f40-d5fe-4601-8fd6-c008abef39e2.png)
+![qr-code-component_desktop](https://user-images.githubusercontent.com/92932301/236670595-b5a00a9c-d5bf-491c-8c5d-3ac66c114c4a.png)
 
 ### Links
 
